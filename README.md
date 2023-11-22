@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @adityapvarma
-- 👀 Currently interested in Financial Markets, App Dev, Unity3D, and anything related to Python3 ;)
+- 👀 Currently interested in Data Science, Machine Learning and anything related to Python3 ;)
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on anything outside my current interests.
-- 📫 How to reach me adityapvarma@gmail.com
+- 📫 How to reach me smadityavarma@gmail.com
 
 <!---
 adityapvarma/adityapvarma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
